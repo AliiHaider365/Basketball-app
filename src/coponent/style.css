@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{
+    background-color:rgb(92, 27, 136) ;
+}
+.nav-mobile li{
+    background-color: fuchsia;
+
+}
+.logo{
+    width: 100px;
+    height: 100px;
+}
+.foot{
+    background-color: black;
+    /* height: 500px; */
+    width: 100%;
+
+
+}
+.page-footer{
+    
+    background-color: rgb(92, 27, 136,0.3);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
